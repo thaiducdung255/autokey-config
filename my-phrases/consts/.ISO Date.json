@@ -1,27 +1,29 @@
 {
     "type": "script",
-    "description": "select forward",
+    "description": "ISO Date",
     "store": {},
     "modes": [
-        3
+        1
     ],
-    "usageCount": 5,
+    "usageCount": 10,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
     "abbreviation": {
-        "abbreviations": [],
+        "abbreviations": [
+            "isod"
+        ],
         "backspace": true,
         "ignoreCase": false,
         "immediate": false,
         "triggerInside": false,
-        "wordChars": "[\\w]"
+        "wordChars": "[^ \\n]"
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>"
+            "<alt>"
         ],
-        "hotKey": "o"
+        "hotKey": "d"
     },
     "filter": {
         "regex": null,

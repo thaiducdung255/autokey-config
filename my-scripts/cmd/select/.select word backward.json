@@ -5,7 +5,7 @@
     "modes": [
         3
     ],
-    "usageCount": 44,
+    "usageCount": 87,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +21,7 @@
         "modifiers": [
             "<ctrl>"
         ],
-        "hotKey": "y"
+        "hotKey": "u"
     },
     "filter": {
         "regex": null,

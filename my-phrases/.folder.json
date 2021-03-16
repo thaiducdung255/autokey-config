@@ -1,13 +1,8 @@
 {
-    "type": "script",
-    "description": "select forward",
-    "store": {},
-    "modes": [
-        3
-    ],
-    "usageCount": 5,
-    "prompt": false,
-    "omitTrigger": false,
+    "type": "folder",
+    "title": "my-phrases",
+    "modes": [],
+    "usageCount": 0,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -18,10 +13,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<ctrl>"
-        ],
-        "hotKey": "o"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,
