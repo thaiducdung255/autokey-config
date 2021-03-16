@@ -5,13 +5,13 @@
     "modes": [
         1
     ],
-    "usageCount": 1,
+    "usageCount": 3,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "uuid"
+            ":iduu"
         ],
         "backspace": true,
         "ignoreCase": false,
