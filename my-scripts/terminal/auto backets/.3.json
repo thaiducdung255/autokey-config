@@ -1,17 +1,17 @@
 {
     "type": "script",
-    "description": "'",
+    "description": "\"",
     "store": {},
     "modes": [
         1
     ],
-    "usageCount": 5,
+    "usageCount": 12,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "'"
+            ";b"
         ],
         "backspace": true,
         "ignoreCase": true,
