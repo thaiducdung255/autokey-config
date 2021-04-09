@@ -3,7 +3,7 @@
     "description": "Alt-3",
     "store": {},
     "modes": [
-        3
+        1
     ],
     "usageCount": 1,
     "prompt": false,
@@ -11,11 +11,11 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            ":e"
+            ";e"
         ],
         "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
+        "ignoreCase": true,
+        "immediate": true,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },

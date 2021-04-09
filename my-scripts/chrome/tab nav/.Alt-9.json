@@ -3,7 +3,7 @@
     "description": "Alt-9",
     "store": {},
     "modes": [
-        3
+        1
     ],
     "usageCount": 0,
     "prompt": false,
@@ -11,11 +11,11 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            ":o"
+            ";f"
         ],
         "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
+        "ignoreCase": true,
+        "immediate": true,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },

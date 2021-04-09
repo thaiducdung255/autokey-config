@@ -1,32 +1,33 @@
 {
     "type": "script",
-    "description": "Alt-4",
+    "description": "'",
     "store": {},
     "modes": [
         1
     ],
-    "usageCount": 1,
+    "usageCount": 5,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            ";r"
+            "'"
         ],
         "backspace": true,
         "ignoreCase": true,
         "immediate": true,
-        "triggerInside": false,
+        "triggerInside": true,
         "wordChars": "[\\w]"
     },
     "hotkey": {
         "modifiers": [
+            "<ctrl>",
             "<shift>"
         ],
-        "hotKey": "r"
+        "hotKey": "i"
     },
     "filter": {
-        "regex": "brave-browser-nightly.Brave-browser-nightly",
+        "regex": ".*terminal|termite.*",
         "isRecursive": false
     }
 }

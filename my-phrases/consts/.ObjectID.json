@@ -11,7 +11,7 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            ":idob"
+            ";idob"
         ],
         "backspace": true,
         "ignoreCase": false,

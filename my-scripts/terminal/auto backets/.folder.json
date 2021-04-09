@@ -1,11 +1,8 @@
 {
-    "type": "script",
-    "description": "encodeURI",
-    "store": {},
+    "type": "folder",
+    "title": "auto backets",
     "modes": [],
-    "usageCount": 43,
-    "prompt": false,
-    "omitTrigger": false,
+    "usageCount": 0,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -16,10 +13,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<ctrl>"
-        ],
-        "hotKey": "g"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,

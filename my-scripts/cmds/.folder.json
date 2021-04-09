@@ -1,8 +1,10 @@
 {
     "type": "folder",
     "title": "cmds",
-    "modes": [],
-    "usageCount": 0,
+    "modes": [
+        3
+    ],
+    "usageCount": 43,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -13,8 +15,10 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": null
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "'"
     },
     "filter": {
         "regex": null,

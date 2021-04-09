@@ -3,19 +3,19 @@
     "description": "Alt-5",
     "store": {},
     "modes": [
-        3
+        1
     ],
-    "usageCount": 2,
+    "usageCount": 6,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            ":t"
+            ";t"
         ],
         "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
+        "ignoreCase": true,
+        "immediate": true,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },
